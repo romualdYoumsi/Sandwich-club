@@ -11,7 +11,7 @@ is a common task for Android Developers. Although JSON parsing is usually
 done using libraries, writing the JSON parsing for  this project will
 help you to better understand how it is processed.
 
-## Skill applied?
+## Skills applied?
 - Practice JSON parsing to a model object
 - Design an activity layout
 - Populate all fields in the layout accordingly
